@@ -4,7 +4,7 @@
 
 パルワールドの協力プレイ（マルチ）ワールドを専用サーバー用のセーブに、または専用サーバーのワールドを協力プレイ用のセーブに戻す変換を、すべてブラウザ上で行います。セーブファイルがお使いのパソコンの外に送られることはありません。
 
-**オンライン版はこちら:** [パルワールド セーブ変換ツール](https://www.dedimoa.com/ja/games/palworld/save-converter?utm_source=github&utm_medium=referral&utm_campaign=palworld_2611_github_converter)
+**オンライン版はこちら:** [パルワールド セーブ変換ツール](https://www.dedimoa.com/ja/tools/palworld-save-converter?utm_source=github&utm_medium=referral&utm_campaign=palworld_2611_github_converter)
 
 ## なぜ必要なのか
 

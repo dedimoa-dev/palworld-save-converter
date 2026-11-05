@@ -5,7 +5,7 @@
   "description": "Convert Palworld co-op saves to dedicated-server saves and back, entirely in the browser.",
   "license": "GPL-3.0-only",
   "author": "DediMoa (https://www.dedimoa.com)",
-  "homepage": "https://www.dedimoa.com/games/palworld/save-converter?utm_source=github&utm_medium=referral&utm_campaign=palworld_2611_github_converter",
+  "homepage": "https://www.dedimoa.com/tools/palworld-save-converter?utm_source=github&utm_medium=referral&utm_campaign=palworld_2611_github_converter",
   "repository": {
     "type": "git",
     "url": "https://github.com/dedimoa-dev/palworld-save-converter.git"
