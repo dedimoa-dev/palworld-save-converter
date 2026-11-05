@@ -14,7 +14,7 @@ export const num = (n: number): string => numberFormat.format(n);
 export const dateTime = (ms: number): string => dateFormat.format(new Date(ms));
 
 export const HOSTED_URL =
-  "https://www.dedimoa.com/tools/palworld-save-converter?utm_source=github&utm_medium=referral&utm_campaign=palworld_2610_github_converter";
+  "https://www.dedimoa.com/games/palworld/save-converter?utm_source=github&utm_medium=referral&utm_campaign=palworld_2611_github_converter";
 
 export const en = {
   lang: LOCALE,

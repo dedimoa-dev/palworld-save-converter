@@ -4,7 +4,7 @@
 
 Convert a Palworld co-op world into a dedicated-server save, or a dedicated-server world back into a co-op save, entirely in your browser. Your save files never leave your computer.
 
-**Use it online:** [Palworld Save Converter](https://www.dedimoa.com/tools/palworld-save-converter?utm_source=github&utm_medium=referral&utm_campaign=palworld_2610_github_converter)
+**Use it online:** [Palworld Save Converter](https://www.dedimoa.com/games/palworld/save-converter?utm_source=github&utm_medium=referral&utm_campaign=palworld_2611_github_converter)
 
 ## Why you need it
 
@@ -55,4 +55,4 @@ The save parser and writer come unmodified from [zlmitchell/palworld-save-toolki
 
 [GPL-3.0](LICENSE).
 
-Maintained by [DediMoa](https://www.dedimoa.com/?utm_source=github&utm_medium=referral&utm_campaign=palworld_2610_github_converter), Palworld dedicated server hosting. Not affiliated with Pocketpair.
+Maintained by [DediMoa](https://www.dedimoa.com/?utm_source=github&utm_medium=referral&utm_campaign=palworld_2611_github_converter), Palworld dedicated server hosting. Not affiliated with Pocketpair.
